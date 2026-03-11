@@ -38,7 +38,7 @@ Epochs:
 
 ## Training Loss
 
-![Training Loss](images/training_loss(1).png)
+![Training Loss](images/training_loss (1).png)
 
 ## Example Prediction
 
