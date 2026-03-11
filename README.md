@@ -2,7 +2,7 @@
 
 # Iris Flower Classification with PyTorch
 
-This project implements a simple neural network using PyTorch to classify Iris flowers into three species.
+This project implements a neural network using PyTorch to classify Iris flowers into three species based on their physical features.
 
 ## Dataset
 The dataset used is the famous Iris dataset which contains 150 samples with 4 features:
@@ -44,3 +44,11 @@ Epochs:
 
 ```python
 new_iris = torch.tensor([5.9,3.0,5.1,1.8])
+
+## Technologies Used
+
+- Python
+- PyTorch
+- NumPy
+- Pandas
+- Matplotlib
